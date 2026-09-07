@@ -498,17 +498,6 @@ CSV → Python → SQL → Power BI → Business Insights
 
 ---
 
-## 👨‍💻 Portfolio
-
-Add your personal links here:
-
-- **GitHub:** `YOUR_GITHUB_URL`
-- **LinkedIn:** `YOUR_LINKEDIN_URL`
-- **Portfolio:** `YOUR_PORTFOLIO_URL`
-- **Email:** `YOUR_EMAIL`
-
----
-
 ## ⭐ If you find this project useful
 
 Give the repository a ⭐ and feel free to use it as a learning reference.
